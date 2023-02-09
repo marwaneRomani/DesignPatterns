@@ -1,2 +1,2 @@
 # DesignPatterns
-# Demo of some popular design patterns using java
+Demo of some popular design patterns using java
